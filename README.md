@@ -1,4 +1,4 @@
-## Hi I'm Winson Chen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="30" height="30">
+## Hi, I'm Winson Chen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="30" height="30">
 ![Profile Views](https://komarev.com/ghpvc/?username=wc543&color=blue&style=for-the-badge)
 
 ## About Me
