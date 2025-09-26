@@ -1,10 +1,12 @@
-## Hi I'm Winson Chen👋 ![Profile Views](https://komarev.com/ghpvc/?username=wc543&color=blue&style=for-the-badge)
+## Hi I'm Winson Chen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="30" height="30">
+![Profile Views](https://komarev.com/ghpvc/?username=wc543&color=blue&style=for-the-badge)
 
 ## About Me
 I am a 4th-year Software Engineering student at Drexel University, passionate about full-stack web development and cloud technologies!
 
 ## Connect with me! 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wc543/)
+[![Follow me on GitHub!](https://img.shields.io/badge/Follow-wc543-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wc543)
 
 ## Tech Stack 💻
 ### Languages
