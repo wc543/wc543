@@ -37,6 +37,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## GitHub Stats! 📈
-![Winson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wc543&show_icons=true&theme=radical)
