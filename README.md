@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=wc543&color=blue&style=for-the-badge)
 
 ## About Me 😁
-<b>I am a 4th-year Software Engineering student at Drexel University, passionate about full-stack web development and cloud technologies!</b>
+<b>I am a recent Software Engineering graduate at Drexel University, passionate about full-stack web development and cloud technologies!</b>
 
 ## Connect with me! 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wc543/)
